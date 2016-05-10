@@ -1,0 +1,18 @@
+.intro
+{
+	margin-top:50px;
+}
+header
+{
+	margin-bottom:100px;
+}
+.intro img
+{
+	width:80px;
+}
+.dropdown .dropdown-menu
+{
+	overflow:visible;
+	margin:0px;
+	padding:auto;
+}
