@@ -1,5 +1,5 @@
 <?php
-	Class AskQs extends CI_Model
+	Class Askqs extends CI_Model
 	{
 	 function __construct()  
       {  

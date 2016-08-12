@@ -109,7 +109,10 @@
 					foreach($result as $row) {
 					?>
 					<div class="container">
-						<b><p><?php echo $row->name ?> 
+						<b><p><?php if($row->name !=''){
+							echo $row->name;
+						}
+						else echo "BIT Student"; ?> 
 						:<?php echo $row->question ?></p><b>
 						
 					</div>

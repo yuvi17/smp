@@ -37,8 +37,8 @@ class Question extends CI_Controller {
 	}
 	function fill()
 	{
-		$this->load->model('askQs');
-		$id=$this->askQs->fillQs();
+		$this->load->model('askqs');
+		$id=$this->askqs->fillQs();
 		$data[0]=$id;
 		$this->load->view('return',$id);
 	}
