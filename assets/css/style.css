@@ -40,7 +40,7 @@ border:none;}
 .footer a:hover{background: none;color: #E89F10; text-decoration:none;}
 
 
-#home{padding-top: 5em;}
+#home{padding-top: 4em;}
 
 /*about*/
 .about.spacer{padding-left: 4em; padding-right: 4em;padding-bottom: 0;}
@@ -220,4 +220,37 @@ border-bottom:solid black 3px;}
 .round
 {
 	border-radius:5px;
+}
+
+.carousel-image {
+	width: 100vw;
+	height: 100vh !important;
+}
+
+.header-work {
+	background-color: rgba(0,0,0,0.5);
+	/*width : 100% !important;*/
+	margin: -10px;
+	padding: 0px;
+	/*backface-visibility: hidden;*/
+	font : 36px Roboto;
+	color:white;
+}
+.text-work {
+	color:white;
+	padding-top: 25px;
+	font-size : 24px;
+}
+
+.you-text{
+	background-color: rgba(0,0,0,0.6);
+	vertical-align: middle;
+	color:white;
+	height: 100% !important;
+	width: 100%;
+}
+
+.team-image {
+	padding-top: 20px;
+	padding: 0px;
 }
