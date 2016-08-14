@@ -140,31 +140,31 @@
 	<h2 class="text-center"> SYLLABUS </h2>
 	<ul>
 	<li>
-	<h4><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_635102640714973904_I&II%20SEMESTER%20SYLLUBUS.pdf"
+	<h4><a href="https://www.bitmesra.ac.in/UploadedDocuments/pratyush_869/files/Menu_635102640714973904_I%26II%20SEMESTER%20SYLLUBUS%281%29.pdf"
 	 > FIRST AND SECOND SEMESTER </a></h4>
 	 </li>
 	 </ul>
 	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" style="border-right: solid black 1px;">
 		<ul class="center">
-		<li><a href="https://www.bitmesra.ac.in/cms.aspx?this=1&mid=897&cid=663">
+		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/admincse/files/cs%20(1).doc">
 		<h4>COMPUTER SCIENCE </h4></a></li>	
-		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_635242558705201386_B.E%20Syll.%20&%20Structure%20MECHANICAL%20FINAL-1_29.10.2012.pdf">
+		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/pratyush_869/files/Menu_635242558705201386_B_E%20Syll_%20%26%20Structure%20MECHANICAL%20FINAL-1_29_10_2012(1).pdf">
 	<h4>MECHANICAL </h4></a></li>
 		
-		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_635737833795552127_EEE_SYLLABUS%20UG%20_%20BE_28-09-2013-2.pdf"><h4>ELECTRICAL AND ELECTRONICS </h4></a></li>
-		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_634021728438437500D0022_P101.pdf"><h4>INFORMATION TECHNOLOGY </h4></a></li>
+		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/admineee/files/EEE_SYLLABUS%20UG%20_%20BE_28-09-2013-2.pdf"><h4>ELECTRICAL AND ELECTRONICS </h4></a></li>
+		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/admincse/files/BE_Course_Structure%202011.doc"><h4>INFORMATION TECHNOLOGY </h4></a></li>
 		</ul>
 	</div>
 	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" style="border-right: solid black 1px;">
 	<ul class="center">
-	<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_634024372788437500D0018_P66.pdf">
+	<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/pratyush_869/files/Menu_635317330135470683_Civil%20Engg%20Syllabus%20-29_03_14-.pdf">
 
 	<h4>CIVIL </h4></a></li>
-	<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_635398913149156503_CEEE%20NEW.pdf">
+	<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/pratyush_869/files/Menu_635398913149156503_CEEE%20NEW_course_struct.pdf">
 	<h4>CHEMICAL </h4></a></li>
 	
-	<li><a href="http://new.bitmesra.ac.in/UploadedDocuments/adminece/files/ECE_Syllabus_Batch2011%20Onwards_August15.pdf"><h4>ELECTRONICS AND COMMUNICATIONS </h4></a></li>
-	<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_635317330135470683_Civil%20Engg%20Syllabus%20-29.03.14-.pdf">
+	<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/adminece/files/ECE_Syllabus_Batch2011%20Onwards_July%202016.pdf"><h4>ELECTRONICS AND COMMUNICATIONS </h4></a></li>
+	<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/adminbioeng/files/Syllabus_BE_BIOTECH.pdf">
 		<h4>BIO-TECHNOLOGY </h4></a></li>
 	</ul>
 
@@ -173,10 +173,10 @@
 	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 		<ul class="center">
 
-		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_635091327677370766_Course_Structure_UG.pdf"><h4>PRODUCTION  </h4></a></li>
-		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_635411274278213727_Finalized%20B%20Pharm%20Syllabus_2011%2016-07-2014.pdf"><h4>PHARMACY </h4></a></li>
-		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_634021020580032865D0020_P34.pdf"><h4>HOTEL MANAGEMENT AND CATERING TECH. </h4></a></li>
-		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/Menu_635183302877100375_consolidated%20syllb%20BArch-24thoct-13.pdf"><h4>ARCHITECTURE </h4></a></li>
+		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/adminprod/files/UG%20SYLABUS%205may12.docx"><h4>PRODUCTION  </h4></a></li>
+		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/pratyush_869/files/Menu_635411274278213727_Finalized%20B%20Pharm%20Syllabus_2011%2016-07-2014.pdf"><h4>PHARMACY </h4></a></li>
+		<li><a href="https://www.bitmesra.ac.in/Visit_Department_Page?cid=1&deptid=73&pid=40"><h4>HOTEL MANAGEMENT AND CATERING TECH. </h4></a></li>
+		<li><a href="https://www.bitmesra.ac.in/UploadedDocuments/pratyush_869/files/Menu_635183302877100375_consolidated%20syllb%20BArch-24thoct-13.pdf"><h4>ARCHITECTURE </h4></a></li>
 		</ul>
 	</div>
 

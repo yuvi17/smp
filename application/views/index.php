@@ -433,7 +433,7 @@ minds through a rich heritage of academic excellence. Essentially a hub of bustl
 			<center>
 				<h2 class="text-center">Reach Us On</h2>
 				<div class="btn-group">
-					<a href="#" class="btn btn-info" role="button"><i class="fa fa-facebook"></i> Facebook</a>
+					<a href="https://www.facebook.com/SMPBITMesra?fref=ts" class="btn btn-info" role="button"><i class="fa fa-facebook"></i> Facebook</a>
 					<button title="smp offical mail" class="btn btn-warning"><i class="fa fa-envelope"></i> Gmail</button>
 				</div><!-- <button class="btn btn-primary"><i class="fa fa-paper-plane"></i> Send</button>  -->
 			<!--	<button class="btn btn-default btn-success center" role="button">
@@ -461,7 +461,7 @@ minds through a rich heritage of academic excellence. Essentially a hub of bustl
 
 <!-- Footer Starts -->
 <div class="footer text-center spacer">
-	<p class="wowload flipInX"><a href="https://www.facebook.com/SMPBITMesra?fref=ts"><i class="fa fa-facebook fa-2x"></i></a> <a title="smp mail id" href="#"><i class="fa fa-envelope fa-2x"></i></a> <a href="#"><i class="fa fa-twitter fa-2x"></i></a> </p>
+	<p class="wowload flipInX"><a href="https://www.facebook.com/SMPBITMesra?fref=ts"><i class="fa fa-facebook fa-2x"></i></a> <a title="smp mail id" href="#"><i class="fa fa-envelope fa-2x"></i></a>  </p>
 	<h4>Designed & Developed By : <a href="https://www.facebook.com/yuvrajjaiswal17">Yuvraj Jaiswal</a></h4>
 </div>
 <!-- # Footer Ends -->
@@ -471,17 +471,7 @@ minds through a rich heritage of academic excellence. Essentially a hub of bustl
 
 
 
-<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
-	<!-- The container for the modal slides -->
-	<div class="slides"></div>
-	<!-- Controls for the borderless lightbox -->
-	<h3 class="title">Title</h3>
-	<a class="prev">‹</a>
-	<a class="next">›</a>
-	<a class="close">×</a>
-	<!-- The modal dialog, which will be used to wrap the lightbox content -->    
-</div>
+
 
 
 
