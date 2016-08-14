@@ -62,7 +62,7 @@
 				  <ul class="nav navbar-nav navbar-right ">
 					 <li ><a href="<?php echo base_url();?>Welcome"><h3><i class="fa fa-home"></i> Home</h3></a></li>
 					 <li ><a href="<?php echo base_url();?>Welcome"><h3><i class="fa fa-bookmark"></i> About Us</h3></a></li>
-					 <li ><a href="<?php echo base_url();?>Welcome><h3><i class="fa fa-group"></i> The Team</h3></a></li>
+					 <li ><a href="<?php echo base_url();?>Welcome"><h3><i class="fa fa-group"></i> The Team</h3></a></li>
 					 <li ><a href="<?php echo base_url();?>Welcome"><h3><i class="fa fa-envelope"></i> Contact Us</h3></a></li>
 					 <li class="active" ><a href="<?php echo base_url();?>question/showFaq"><h3><i class="fa fa-question"></i> F.A.Q</h3></a></li>
 					 <li class="dropdown">
@@ -71,9 +71,8 @@
 						 </a>
 
 							  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-								<li><a href="<?php echo base_url();?>Welcome/campus">Campus Guide</a></li>
-								<li><a href="facility">Facilities Guide</a></li>
-								<li><a href="#">Academic Guide</a></li>
+								<li><a href="<?php echo base_url();?>Guide/campus">Campus Guide</a></li>
+								<li><a href="<?php echo base_url();?>Guide/acad">Academic Guide</a></li>
 							  </ul>
 					</li>
 				  </ul>

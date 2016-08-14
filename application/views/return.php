@@ -70,10 +70,10 @@
 						<h3>	Your Guides <i class="fa fa-chevron-down"></i> </h3>
 						 </a>
 
-							  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-								<li><a href="<?php echo base_url();?>Welcome/campus">Campus Guide</a></li>
-								<li><a href="facility">Facilities Guide</a></li>
-							  </ul>
+							 <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+								<li><a href="<?php echo base_url();?>Guide/campus">Campus Guide</a></li>
+								<li><a href="<?php echo base_url();?>Guide/acad">Academic Guide</a></li>
+							  </ul>>
 					</li>
 				  </ul>
 				</div>

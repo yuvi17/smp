@@ -72,10 +72,9 @@
 					 </a>
 
 						  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-							<li><a href="campus">Facility Guide</a></li>
-							
-							<li><a href="acad">Academic Guide</a></li>
-						  </ul>
+								<li><a href="<?php echo base_url();?>Guide/campus">Campus Guide</a></li>
+								<li><a href="<?php echo base_url();?>Guide/acad">Academic Guide</a></li>
+							  </ul>
 				</li>
               </ul>
             </div>
